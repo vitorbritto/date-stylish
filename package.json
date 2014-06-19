@@ -1,0 +1,24 @@
+{
+  "name": "date-stylish",
+  "version": "0.1.0",
+  "description": "Date and time with style.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://vitorbritto@github.com/vitorbritto/date-stylish.git"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "format"
+  ],
+  "author": "Vitor Britto <code@vitorbritto.com.br> (http://vitorbritto.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorbritto/date-stylish/issues"
+  },
+  "homepage": "https://github.com/vitorbritto/date-stylish"
+}
