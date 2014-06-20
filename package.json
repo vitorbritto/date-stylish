@@ -1,6 +1,6 @@
 {
   "name": "date-stylish",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Date and time with style.",
   "main": "index.js",
   "scripts": {
