@@ -49,53 +49,16 @@ console.log('Published at: %s' + pubDate);      // => Published at: 19/06/2014 -
 
 ## Options
 
-### `now`
-
-- **Type:** date
-- **Return:** _String_
-- **Output:** current date/time in "DD/MM/YYYY - hh:mm:ss" format
-
-### `inow`
-
-- **Type:** date
-- **Return:** _String_
-- **Output:** current date/time in "YYYY/MM/DD - hh:mm:ss" format
-
-### `YYYY`
-
-- **Type:** date
-- **Return:** _String_
-- **Output:** full year
-
-### `MM`
-
-- **Type:** date
-- **Return:** _String_
-- **Output:** month
-
-### `DD`
-
-- **Type:** date
-- **Return:** _String_
-- **Output:** day
-
-### `hh`
-
-- **Type:** date
-- **Return:** _String_
-- **Output:** hours
-
-### `mm`
-
-- **Type:** date
-- **Return:** _String_
-- **Output:** minutes
-
-### `ss`
-
-- **Type:** date
-- **Return:** _String_
-- **Output:** seconds
+| Options | Type | Return   | Output                |
+|---------|------|----------|-----------------------|
+| `now`   | date | _String_ | DD/MM/YYYY - hh:mm:ss |
+| `inow`  | date | _String_ | YYYY/MM/DD - hh:mm:ss |
+| `YYYY`  | date | _String_ | full year             |
+| `MM`    | date | _String_ | month                 |
+| `DD`    | date | _String_ | date                  |
+| `hh`    | date | _String_ | hours                 |
+| `mm`    | date | _String_ | minutes               |
+| `ss`    | date | _String_ | seconds               |
 
 
 ## Contribute
