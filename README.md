@@ -1,5 +1,7 @@
 # Date Stylish [![NPM version](https://badge.fury.io/js/date-stylish.svg)](http://badge.fury.io/js/date-stylish) [![GitHub version](https://badge.fury.io/gh/vitorbritto%2Fdate-stylish.svg)](http://badge.fury.io/gh/vitorbritto%2Fdate-stylish)
 
+[![NPM](https://nodei.co/npm/date-stylish.png?downloads=true)](https://nodei.co/npm/date-stylish/)
+
 Date and time with style.
 
 
