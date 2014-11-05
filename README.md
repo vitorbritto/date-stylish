@@ -46,6 +46,11 @@ console.log('%s/%s/%s', D,M,Y);                 // => 19/06/2014
 // Set published date (great for blog posts)
 var pubDate = ds.now;
 console.log('Published at: %s' + pubDate);      // => Published at: 19/06/2014 - 15:50:25
+
+// Pretty up dates other than the current one:
+var oldDate = new Date(0);
+ds.set( oldDate );
+console.log('Remember back when we started the clock?  I believe it was ' + ds.YYYY);
 ```
 
 
@@ -61,6 +66,7 @@ console.log('Published at: %s' + pubDate);      // => Published at: 19/06/2014 -
 | `hh`    | date | _String_ | hours                 |
 | `mm`    | date | _String_ | minutes               |
 | `ss`    | date | _String_ | seconds               |
+| `set`   | func | _null  _ | sets internal time    |
 
 
 ## Contribute
